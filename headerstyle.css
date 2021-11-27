@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* CSS Document */
+.header {
+  padding: 2px;
+  text-align: left;
+  background: #333;
+  color: white;
+  font: "Sans Serif";
+  font-size: 30px;
+}
